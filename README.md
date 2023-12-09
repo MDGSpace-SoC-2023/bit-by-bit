@@ -27,10 +27,11 @@ provided.
 
 # Team Members:
 Aakarsh Agrawal
-23411001
+Enrollment no - 23411001
 
 Shree Raj Chettri
-23115139
+Enrollment no - 23115139
 
 Shruti
-23411036# bit-by-bit
+Enrollment no - 23411036
+# bit-by-bit
